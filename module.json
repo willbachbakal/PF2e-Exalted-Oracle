@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "A series of variant rules for the Oracle class in Pathfinder Second Edition, offering to exchange spell slots for unique mystery benefits.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,7 +29,7 @@
   ],
   "packs": [
     {
-      "name": "A series of variant rules for the Oracle class in Pathfinder Second Edition, offering to exchange spell slots for unique mystery benefits.",
+      "name": "exalted-oracle",
       "label": "Exalted Oracle",
       "path": "packs/exalted-oracle",
       "type": "Item",
