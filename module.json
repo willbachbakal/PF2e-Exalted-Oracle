@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "exalted-oracle",
+  "title": "Exalted Oracle",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "A series of variant rules for the Oracle class in Pathfinder Second Edition, offering to exchange spell slots for unique mystery benefits.",
+      "label": "Exalted Oracle",
+      "path": "packs/exalted-oracle",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/DeJq-rGAsdjU"
 }
